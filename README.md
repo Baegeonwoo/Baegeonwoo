@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Baegeonwoo
 - 👀 I’m interested in making my program by coding.
 - 🌱 I’m currently learning Cpp Algorithm and Java Language
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me /
+- 📫 How to reach me / instagram
 
 <!---
 Baegeonwoo/Baegeonwoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
